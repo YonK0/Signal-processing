@@ -9,6 +9,6 @@ Signal Processing Project for Speaker Identification using C++
 
 
 
-# Compilation Command
+# Compilation & Executing
 
 ``g++ -std=c++17 main2.cpp MFCC.cpp -o speaker_id -lsndfile -larmadillo -lfftw3 && ./speaker_id``
